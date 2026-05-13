@@ -1,4 +1,4 @@
-**# Pinhalense auxílio de pesquisa e automatização – Estudo de Caso
+**# Pinhalense auxílio de pesquisa e automatização – Estudo de Caso**
 
 Bem-vindo ao repositório oficial do **Estudo de Pinhalense auxílio de pesquisa e automatização **, do nosso projeto integrador (PI).
 
